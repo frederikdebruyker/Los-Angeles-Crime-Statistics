@@ -20,6 +20,7 @@ Analyse crime patterns based upon available data.
 - Crime frequency by time of day
 - Crime by time of year
 - Overlay of research questions above by type of crime
+- Overlay of research questions above with trends
 
 ## Data Sets to be Used
 
