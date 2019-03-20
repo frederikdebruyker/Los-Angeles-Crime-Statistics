@@ -19,6 +19,8 @@ Analyse crime patterns based upon available data.
 - Victims by gender
 - Crime frequency by time of day
 - Crime by time of year
+- Top 10 lowest crime zipcodes
+- Top 10 highest crime zipcodes
 - Overlay of research questions above by type of crime
 - Overlay of research questions above with trends
 
@@ -26,7 +28,7 @@ Analyse crime patterns based upon available data.
 
 https://catalog.data.gov/dataset/crime-data-from-2010-to-present
 
-https://www.google.com/maps/search/
+https://www.google.com/maps/search/ based upon input from prior dataset and analysis
 
 ## Rough Breakdown of Tasks 
 
