@@ -36,6 +36,7 @@ https://www.google.com/maps/search/
 - analysis
 - potential scope extension/reduction based upon available data/time
 - visualization
+- on going technical review
 - summmary
 - documentation
 - presentation
