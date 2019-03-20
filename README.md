@@ -17,13 +17,14 @@ Analyse crime patterns based upon available data.
 
 - Crime rates by zipcode
 - Victims by gender
-- Victims by time in the day
+- Crime frequency by time of day
 - Crime by time of year
 - Overlay of research questions above by type of crime
 
 ## Data Sets to be Used
 
 https://catalog.data.gov/dataset/crime-data-from-2010-to-present
+https://www.google.com/maps/search/
 
 ## Rough Breakdown of Tasks 
 
