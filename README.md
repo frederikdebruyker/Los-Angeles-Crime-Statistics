@@ -1,4 +1,4 @@
-# Rice University Big Data Bootcamp
+# Rice University Big Data Bootcamp - Project 1
 ## Project Title 
 
 City of Los Angeles Crime Review
