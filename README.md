@@ -34,7 +34,9 @@ https://www.google.com/maps/search/
 - data cleanup
 - data aggregation
 - analysis
+- potential scope extension/reduction based upon available data/time
 - visualization
+- summmary
 - documentation
 - presentation
 
