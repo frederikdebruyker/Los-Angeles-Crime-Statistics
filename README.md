@@ -19,8 +19,8 @@ Analyse crime patterns based upon available data.
 - Victims by gender
 - Crime frequency by time of day
 - Crime by time of year
-- Top 10 lowest crime zipcodes
-- Top 10 highest crime zipcodes
+- Top 5 lowest crime zipcodes
+- Top 5 highest crime zipcodes
 - Overlay of research questions above by type of crime
 - Overlay of research questions above with trends
 
