@@ -15,11 +15,11 @@ Analyse crime patterns based upon available data.
 
 ## Research Questions to Answer
 
-Crime rates by zipcode
-Victims by gender
-Victims by time in the day
-Crime by time of year
-Overlay of research questions above by type of crime
+- Crime rates by zipcode
+- Victims by gender
+- Victims by time in the day
+- Crime by time of year
+- Overlay of research questions above by type of crime
 
 ## Data Sets to be Used
 
