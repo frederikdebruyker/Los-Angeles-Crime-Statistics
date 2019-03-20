@@ -28,6 +28,10 @@ Analyse crime patterns based upon available data.
 
 https://catalog.data.gov/dataset/crime-data-from-2010-to-present
 
+https://data.lacity.org/resource/7fvc-faax.json 
+
+  with corresponding API documentation  https://dev.socrata.com/foundry/data.lacity.org/7fvc-faax
+
 https://www.google.com/maps/search/ based upon input from prior dataset and analysis
 
 ## Rough Breakdown of Tasks 
