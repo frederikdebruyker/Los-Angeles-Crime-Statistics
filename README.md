@@ -23,6 +23,8 @@ Analyse crime patterns based upon available data.
 - Top 5 highest crime zipcodes
 - Overlay of research questions above by type of crime
 - Overlay of research questions above with trends
+- Effects of property values on crime rates
+- Effects of median incomes on crime rates
 
 ## Data Sets to be Used
 
