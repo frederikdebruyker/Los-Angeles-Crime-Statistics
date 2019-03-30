@@ -4,7 +4,7 @@
 City of Los Angeles Crime Review
 ## Team Members
 
-- Ehsanur-Rab Khan
+- Ehsan Khan
 - Frederik De Bruyker
 - Jeff Mackey
 
